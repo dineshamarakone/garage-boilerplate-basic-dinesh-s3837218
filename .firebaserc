@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "REPLACE_WITH_FIREBASE_PROJECT_ID"
+    "default": "garage-boilerplate-1f1ea"
   },
   "targets": {},
   "etags": {}
